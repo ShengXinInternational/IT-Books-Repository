@@ -14,3 +14,5 @@ this command creates a package.json file.
 - Understanding media queries is still important.
 - Using relative units like rem for font sizes.
 ### Chapter2
+- containers and rows are fundamental building blocks for create layouts.
+- Gutters are the spacing between the columns.
