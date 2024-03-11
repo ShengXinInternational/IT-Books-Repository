@@ -28,3 +28,8 @@ this command creates a package.json file.
 - Modal dialogs and popovers
 - Tables
 - Tabs and Pills
+### Chapter 4 customization and theming
+- SASS for a distinctive online presence. Gulp: a task runner.
+- Bootstrap Icons
+- Adaptive Color Schemes
+- Design consistency and branding: which is crucial for creating a cohesive and professional web presence.
