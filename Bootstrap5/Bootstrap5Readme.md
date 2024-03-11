@@ -16,3 +16,9 @@ this command creates a package.json file.
 ### Chapter2
 - containers and rows are fundamental building blocks for create layouts.
 - Gutters are the spacing between the columns.
+- Utility Class:
+    - Display utilities: .d-none
+    - Flexbox Utilities: flex
+    - Margin and Padding Utilities: m p
+    - Visibility Utilities: .visable
+    - Sass-based API: to suit your specific needs.
