@@ -33,3 +33,42 @@ I hope I can get the Github foundation certification as soon as possible.
 #### Foundation
 - Gist (gists are a simplified way to share code snippets with others. Every gist is a Git repository)
 - 
+
+#### MardDown Syntax
+- Italics * or _ \
+   This is *italic* text \
+   This is also _italic_text
+- Bold text ** or __ \
+  This is **BOLD** text, and __Another Bold__ text.
+- Link to an image \!\[]()
+- Link to website \[name](url)
+- List (need space after the character) \
+    Order lists start with numbers. \
+    Unorder lists start with \_
+- Table: \| and \_
+  Header1|Header2
+  -|-
+  Hello|World
+  amazing|cool
+- Quote text \>
+ > Hello world!
+- code \` \
+`code`
+- code segment \```
+```javascript
+//this is javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+- cross-link issues and pull requests \#ID (no space, or else it is a header)
+
+- Mention users and teams @\
+@sheng0321
+- task lists \- [] and \- [x] \
+ \- [] todo \
+ \- [x] done
+
+ - slash commands \
+ /code \
+ /details

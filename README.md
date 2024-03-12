@@ -1,5 +1,5 @@
 # IT-Books-Repository
-Welcome to the IT Books Repository! 📚
+Welcome to the IT Books Repository! 📚I try to collect Top 3 books of each skill fields. (Just top3 is enough.)
 ## Description
 This repository contains a curated collection of IT-related books that are freely available on the internet. These resources are intended solely for educational purposes, allowing users to enhance their knowledge and skills in various technology domains. Please note the following guidelines:
 
